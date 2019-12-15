@@ -4,11 +4,11 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://sonigararonak.github.io/currency-converter/",
+  "homepage": "https://ronaksonigara.github.io/currency-converter/",
   "dependencies": {
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "^3.3.0"
   },
   "devDependencies": {
     "gh-pages": "^2.1.1",
